@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Dec 11 13:32:58 2018
+# Process ID: 9690
+# Current directory: /home/tansei/Desktop/186cpu/fpu/FLT
+# Command line: xsim -mode tcl -source {xsim.dir/test_flt.sim/xsim_script.tcl}
+# Log file: /home/tansei/Desktop/186cpu/fpu/FLT/xsim.log
+# Journal file: /home/tansei/Desktop/186cpu/fpu/FLT/xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/test_flt.sim/xsim_script.tcl
+# xsim {test_flt.sim} -autoloadwcfg -runall
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+run -all
+x1, x2 = 00000000000000000000000000000000 10000000000000000000000000000000
+1
+0
+$finish called at time : 52489200 ns : File "/home/tansei/Desktop/186cpu/fpu/FLT/test_flt.sv" Line 124
+run: Time (s): cpu = 00:00:00.04 ; elapsed = 00:00:34 . Memory (MB): peak = 1239.012 ; gain = 0.000 ; free physical = 922 ; free virtual = 26113
+exit
+INFO: [Common 17-206] Exiting xsim at Tue Dec 11 13:33:42 2018...

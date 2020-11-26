@@ -1,0 +1,7 @@
+Running: xsim.dir/test_feq.sim/xsimk -runall -simmode gui -wdb test_feq.sim.wdb -simrunnum 0 -socket 44518
+Design successfully loaded
+Design Loading Memory Usage: 46988 KB (Peak: 47108 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 132824 KB (Peak: 194260 KB)
+Simulation CPU Usage: 24730 ms

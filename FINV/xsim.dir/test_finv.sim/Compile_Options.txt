@@ -1,0 +1,1 @@
+-debug "typical" "test_finv" -s "test_finv.sim" 

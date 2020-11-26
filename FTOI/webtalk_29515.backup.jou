@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Dec 18 00:09:19 2018
+# Process ID: 29515
+# Current directory: /home/tansei/Desktop/186cpu/fpu/FTOI
+# Command line: wbtcv -mode batch -source /home/tansei/Desktop/186cpu/fpu/FTOI/xsim.dir/test_ftoi.sim/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/tansei/Desktop/186cpu/fpu/FTOI/webtalk.log
+# Journal file: /home/tansei/Desktop/186cpu/fpu/FTOI/webtalk.jou
+#-----------------------------------------------------------
+source /home/tansei/Desktop/186cpu/fpu/FTOI/xsim.dir/test_ftoi.sim/webtalk/xsim_webtalk.tcl -notrace

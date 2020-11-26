@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/FSQRT/test_fsqrt.sv" into library work
+INFO: [VRFC 10-311] analyzing module test_fsqrt
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/FSQRT/fsqrt.v" into library work
+INFO: [VRFC 10-311] analyzing module fsqrt

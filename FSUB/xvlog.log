@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/class/3A/CPU/FSUB/test_fsub.sv" into library work
+INFO: [VRFC 10-311] analyzing module test_fsub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/class/3A/CPU/FSUB/fsub.v" into library work
+INFO: [VRFC 10-311] analyzing module fsub

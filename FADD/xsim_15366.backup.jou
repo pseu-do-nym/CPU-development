@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Oct  3 11:29:09 2018
+# Process ID: 15366
+# Current directory: /home/tansei/Desktop/class/3A/CPU/FADD
+# Command line: xsim -mode tcl -source {xsim.dir/test_fadd.sim/xsim_script.tcl}
+# Log file: /home/tansei/Desktop/class/3A/CPU/FADD/xsim.log
+# Journal file: /home/tansei/Desktop/class/3A/CPU/FADD/xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/test_fadd.sim/xsim_script.tcl
+run -all

@@ -1,0 +1,7 @@
+Running: xsim.dir/test_itof.sim/xsimk -runall -simmode gui -wdb test_itof.sim.wdb -simrunnum 0 -socket 40676
+Design successfully loaded
+Design Loading Memory Usage: 46980 KB (Peak: 46980 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 128716 KB (Peak: 194252 KB)
+Simulation CPU Usage: 10 ms

@@ -1,0 +1,7 @@
+Running: xsim.dir/test_fsqrt.sim/xsimk -runall -simmode gui -wdb test_fsqrt.sim.wdb -simrunnum 0 -socket 52052
+Design successfully loaded
+Design Loading Memory Usage: 48424 KB (Peak: 48432 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 130160 KB (Peak: 195696 KB)
+Simulation CPU Usage: 1010 ms

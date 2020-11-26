@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Feb  8 15:21:34 2019
+# Process ID: 18271
+# Current directory: /home/tansei/Desktop/186cpu/fpu/FSQRT
+# Command line: xsim -mode tcl -source {xsim.dir/test_fsqrt.sim/xsim_script.tcl}
+# Log file: /home/tansei/Desktop/186cpu/fpu/FSQRT/xsim.log
+# Journal file: /home/tansei/Desktop/186cpu/fpu/FSQRT/xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/test_fsqrt.sim/xsim_script.tcl
+# xsim {test_fsqrt.sim} -autoloadwcfg -runall
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+run -all
+x      =0.000000e+00  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+true y =2.449490e+00  01000000000111001100010001110001 
+my   y =0.000000e+00  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+
+nib =1xxxxxxxxxxxxxxxxxxxxxxx
+1xxxxxxxxxxxxxxxxxxxxxxx - xxxxxxxxxxxxxxxxxxxxxxxx = xxxxxxxxxxxxxxxxxxxxxxxx
+an =xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+
+exit
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Common 17-206] Exiting xsim at Fri Feb  8 15:22:03 2019...

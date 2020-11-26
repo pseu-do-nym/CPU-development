@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Dec 18 00:32:54 2018
+# Process ID: 30791
+# Current directory: /home/tansei/Desktop/186cpu/fpu/ITOF
+# Command line: wbtcv -mode batch -source /home/tansei/Desktop/186cpu/fpu/ITOF/xsim.dir/test_itof.sim/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/tansei/Desktop/186cpu/fpu/ITOF/webtalk.log
+# Journal file: /home/tansei/Desktop/186cpu/fpu/ITOF/webtalk.jou
+#-----------------------------------------------------------
+source /home/tansei/Desktop/186cpu/fpu/ITOF/xsim.dir/test_itof.sim/webtalk/xsim_webtalk.tcl -notrace

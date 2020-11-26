@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/ITOF/test_itof.sv" into library work
+INFO: [VRFC 10-311] analyzing module test_itof
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/ITOF/itof.v" into library work
+INFO: [VRFC 10-311] analyzing module itof

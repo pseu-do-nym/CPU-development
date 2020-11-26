@@ -1,0 +1,1 @@
+-debug "typical" "test_fmul" -s "test_fmul.sim" 

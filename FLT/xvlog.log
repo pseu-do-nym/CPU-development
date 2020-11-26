@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/FLT/test_flt.sv" into library work
+INFO: [VRFC 10-311] analyzing module test_flt
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/FLT/flt.v" into library work
+INFO: [VRFC 10-311] analyzing module flt

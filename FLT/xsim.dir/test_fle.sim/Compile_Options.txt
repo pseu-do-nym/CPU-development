@@ -1,0 +1,1 @@
+-debug "typical" "test_fle" -s "test_fle.sim" 

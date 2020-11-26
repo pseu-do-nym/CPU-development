@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+20:57:24
+/home/tansei/Desktop/186cpu/fpu/FLE/fle.v,1544503881,systemVerilog,,,,fle,,,,,,,,
+/home/tansei/Desktop/186cpu/fpu/FLE/test_fle.sv,1539667601,systemVerilog,,/home/tansei/Desktop/186cpu/fpu/FLE/fle.v,,test_fle,,,,,,,,
+/home/tansei/Desktop/186cpu/fpu/FLT/flt.v,1550225267,systemVerilog,,,,flt,,,,,,,,
+/home/tansei/Desktop/186cpu/fpu/FLT/test_flt.sv,1550225040,systemVerilog,,/home/tansei/Desktop/186cpu/fpu/FLT/flt.v,,test_flt,,,,,,,,

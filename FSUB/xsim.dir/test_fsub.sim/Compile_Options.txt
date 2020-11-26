@@ -1,0 +1,1 @@
+-debug "typical" "test_fsub" -s "test_fsub.sim" 

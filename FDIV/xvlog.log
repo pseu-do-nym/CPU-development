@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/FDIV/test_fdiv.sv" into library work
+INFO: [VRFC 10-311] analyzing module test_fdiv
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/FDIV/fdiv.v" into library work
+INFO: [VRFC 10-311] analyzing module fdiv
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/FDIV/fmul.v" into library work
+INFO: [VRFC 10-311] analyzing module fmul
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/tansei/Desktop/186cpu/fpu/FDIV/finv.v" into library work
+INFO: [VRFC 10-311] analyzing module finv

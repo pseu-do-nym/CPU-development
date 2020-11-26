@@ -1,0 +1,13 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2017.4/bin/unwrapped/lnx64.o/xelab -debug typical test_fmul -s test_fmul.sim 
+Multi-threading is on. Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1770] port ovf remains unconnected for this instance [/home/tansei/Desktop/186cpu/fpu/FMUL/test_fmul.sv:19]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.fmul
+Compiling module work.test_fmul
+Built simulation snapshot test_fmul.sim

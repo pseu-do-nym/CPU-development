@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+20:57:24
+/home/tansei/Desktop/186cpu/fpu/FDIV/fdiv.v,1540954651,systemVerilog,,/home/tansei/Desktop/186cpu/fpu/FDIV/fmul.v,,fdiv,,,,,,,,
+/home/tansei/Desktop/186cpu/fpu/FDIV/finv.v,1540952640,systemVerilog,,,,finv,,,,,,,,
+/home/tansei/Desktop/186cpu/fpu/FDIV/fmul.v,1540705336,systemVerilog,,/home/tansei/Desktop/186cpu/fpu/FDIV/finv.v,,fmul,,,,,,,,
+/home/tansei/Desktop/186cpu/fpu/FDIV/test_fdiv.sv,1540956801,systemVerilog,,/home/tansei/Desktop/186cpu/fpu/FDIV/fdiv.v,,test_fdiv,,,,,,,,
